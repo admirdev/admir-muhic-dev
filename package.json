@@ -2,7 +2,7 @@
   "name": "admir-muhic-dev",
   "version": "0.0.0",
   "homepage": "https://admirdev.github.io/admir-muhic-dev/",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
