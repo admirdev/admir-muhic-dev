@@ -1,0 +1,11 @@
+@import '@/styles/variables/_colors.scss';
+
+.btn-default {
+  color: $text-white;
+  background-color: $bg-light-blue;
+
+  &:hover {
+    color: $text-white;
+    background-color: $bg-dark-blue;
+  }
+}
