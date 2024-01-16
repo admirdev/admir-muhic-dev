@@ -1,7 +1,7 @@
 {
   "name": "admir-muhic-dev",
   "version": "0.0.1",
-  "homepage": "admirdev.github.io",
+  "homepage": "https://admirdev.github.io/admir-muhic-dev/",
   "private": false,
   "scripts": {
     "dev": "vite",
