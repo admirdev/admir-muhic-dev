@@ -46,7 +46,5 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.text-light-blue {
-  color: $bg-light-blue;
-}
+// The navbar styling
 </style>

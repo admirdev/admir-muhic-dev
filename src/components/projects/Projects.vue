@@ -1,6 +1,5 @@
 <template>
-  <h1 class="my-4">Projects</h1>
-  <div class="container">
+  <div class="container mb-4">
     <div class="text-center mx-auto">
       <the-spinner :loading="loading"></the-spinner>
     </div>
@@ -56,7 +55,5 @@ export default {
 </script>
 
 <style scoped lang="scss">
-h2 {
-  color: $text-light-blue;
-}
+// Projects styling
 </style>

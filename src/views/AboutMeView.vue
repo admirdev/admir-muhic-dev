@@ -5,7 +5,7 @@
     </div>
   </div>
   <div class="mt-4" v-for="about in aboutMe" :key="'id_' + about.id">
-    <h1>{{ about.header }}</h1>
+    <h1 class="text-light-blue">{{ about.header }}</h1>
     <p>
       {{ about.description }}
     </p>
@@ -46,4 +46,6 @@ export default {
 }
 </script>
 
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+// About me styling
+</style>

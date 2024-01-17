@@ -16,7 +16,7 @@
                   </p>
                 </div>
                 <div class="flex-shrink-0">
-                  <small class="text-body-secondary">March 2013 - Present</small>
+                  <small class="text-body-secondary ms-4">March 2013 - Present</small>
                 </div>
               </div>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5 border-start">
@@ -29,7 +29,7 @@
                   </p>
                 </div>
                 <div class="flex-shrink-0">
-                  <small class="text-body-secondary">August 2017 - September 2020</small>
+                  <small class="text-body-secondary ms-4">August 2017 - September 2020</small>
                 </div>
               </div>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5 border-start">
@@ -39,7 +39,7 @@
                   <p>Android SDK (Java, XML) | AngularJS (JavaScript, HTML5, CSS)</p>
                 </div>
                 <div class="flex-shrink-0">
-                  <small class="text-body-secondary">January 2017 - July 2017</small>
+                  <small class="text-body-secondary ms-4">January 2017 - July 2017</small>
                 </div>
               </div>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5 border-start">
@@ -49,7 +49,7 @@
                   <p>JavaScript | VBScript | HTML5 | CSS | C# | SQL (Microsoft SQL server)</p>
                 </div>
                 <div class="flex-shrink-0">
-                  <small class="text-body-secondary">August 2016 - December 2016</small>
+                  <small class="text-body-secondary ms-4">August 2016 - December 2016</small>
                 </div>
               </div>
             </div>
@@ -69,9 +69,6 @@ export default {
   }
 }
 </script>
-
 <style scoped lang="scss">
-.text-light-blue {
-  color: $bg-light-blue;
-}
+//Resume styling
 </style>
