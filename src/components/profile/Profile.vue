@@ -1,7 +1,7 @@
 <template>
   <div class="col-xxl-5">
     <div class="text-center text-xxl-start">
-      <div class="fs-3 fw-light text-muted">An application build with Vue.js</div>
+      <div class="fs-3 fw-light text-muted">An application built with Vue.js</div>
       <h1 class="display-3 fw-bolder mb-5">
         <span class="text-gradient d-inline">Check out my hobby projects and resume!</span>
       </h1>
