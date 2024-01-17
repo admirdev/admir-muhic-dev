@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-white py-3 shadow-sm" id="mainNav">
     <div class="container">
       <router-link class="navbar-brand fw-bold text-light-blue" :to="{ path: '/' }"
-        >admirmuhic.dev</router-link
+        >admirmuhic.se</router-link
       >
       <button
         class="navbar-toggler"

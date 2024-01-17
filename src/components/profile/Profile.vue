@@ -6,12 +6,16 @@
         <span class="text-gradient d-inline">Check out my hobby projects and resume!</span>
       </h1>
       <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
-        <a class="btn btn-default btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="projects"
+        <router-link
+          class="btn btn-default btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder"
+          :to="{ path: 'projects' }"
           >Projects <i class="bi bi-chevron-right"></i
-        ></a>
-        <a class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" href="resume"
+        ></router-link>
+        <router-link
+          class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder"
+          :to="{ path: 'resume' }"
           >Curriculum vitae <i class="bi bi-chevron-right"></i
-        ></a>
+        ></router-link>
       </div>
     </div>
   </div>
