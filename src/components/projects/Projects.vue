@@ -7,7 +7,7 @@
   <div class="col-lg-6 mb-4" v-for="project in projects" :key="'id_' + project.id">
     <div class="card h-100">
       <a :href="project.url"
-        ><img class="card-img-top" :src="project.image" width="700" height="700" :alt="'Project image_' + project.title"
+        ><img class="card-img-top" :src="project.image" width="700" height="400" :alt="'Project image_' + project.title"
       /></a>
       <div class="card-body">
         <h2 class="card-title">
