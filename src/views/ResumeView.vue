@@ -8,7 +8,7 @@
             <div class="card-body p-5">
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5 border-start">
                 <div class="flex-grow-1 ms-4">
-                  <h2 class="mb-0">AddPro AB</h2>
+                  <h2 class="mb-0">itm8</h2>
                   <p class="subheading mb-3">Software engineer</p>
                   <p>
                     .NET (C#) | Optimizely CMS | Vue.js (JavaScript, HTML5, CSS) | SQL (Microsoft
@@ -16,7 +16,7 @@
                   </p>
                 </div>
                 <div class="flex-shrink-0">
-                  <small class="text-body-secondary ms-4">March 2013 - Present</small>
+                  <small class="text-body-secondary ms-4">September 2020 - Present</small>
                 </div>
               </div>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5 border-start">
